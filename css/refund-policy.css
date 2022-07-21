@@ -1,0 +1,302 @@
+/* screen - refund-policy */
+
+.refund-policy {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 1080px;
+  width: 1920px;
+}
+
+.refund-policy .basic-indoor-sceene {
+  height: 1080px;
+  left: 0;
+  position: fixed;
+  top: 0;
+  width: 1920px;
+  z-index: 1;
+}
+
+.refund-policy .basic-indoor-sceene video {
+  height: 100%;
+  object-fit: cover;
+  width: 100%;
+}
+
+.refund-policy .basic-indoor-sceene img {
+  object-fit: cover;
+}
+
+.refund-policy .home {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 75px;
+  left: 30px;
+  min-width: 179px;
+  position: fixed;
+  top: 21px;
+  transition: all 0.5s ease-in-out;
+  z-index: 2;
+}
+
+.refund-policy .home:hover {
+  transform: scale(1.1);
+}
+
+.refund-policy .overlap-group {
+  align-items: flex-start;
+  background-image: url(../img/rectangle-1-12@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 24px 105px 24px 105px;
+  display: flex;
+  height: 75px;
+  justify-content: flex-end;
+  min-width: 179px;
+  padding: 7px 25px;
+}
+
+.refund-policy .place {
+  letter-spacing: 0;
+  line-height: 44px;
+  min-height: 60px;
+  text-shadow: 0px 3px 6px #00000029;
+  white-space: nowrap;
+}
+
+.refund-policy .component-2-28 {
+  align-items: flex-end;
+  cursor: pointer;
+  display: flex;
+  height: 116px;
+  left: 1698px;
+  min-width: 179px;
+  position: fixed;
+  top: 21px;
+  transition: all 0.5s ease-in-out;
+  z-index: 4;
+}
+
+.refund-policy .component-2-28:hover {
+  transform: scale(1.1);
+}
+
+.refund-policy .overlap-group2 {
+  height: 132px;
+  margin-bottom: -16px;
+  position: relative;
+  width: 179px;
+}
+
+.refund-policy .rectangle-1 {
+  border-radius: 24px 105px 24px 105px;
+  height: 75px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 179px;
+}
+
+.refund-policy .gallery {
+  left: 16px;
+  letter-spacing: 0;
+  line-height: 44px;
+  position: absolute;
+  text-shadow: 0px 3px 6px #00000029;
+  top: 14px;
+  white-space: nowrap;
+}
+
+.refund-policy .overlap-group6 {
+  align-self: center;
+  height: 757px;
+  margin-left: 15.0px;
+  margin-top: 217px;
+  position: relative;
+  width: 875px;
+  z-index: 6;
+}
+
+.refund-policy .overlap-group4 {
+  background-image: url(../img/form-blue-box@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 24px 105px 24px 105px;
+  height: 757px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 875px;
+}
+
+.refund-policy .refund-policy-1 {
+  -webkit-backdrop-filter: blur(30px) brightness(115%);
+  backdrop-filter: blur(30px) brightness(115%);
+  left: 237px;
+  letter-spacing: 0;
+  line-height: 60px;
+  position: absolute;
+  text-shadow: 0px 3px 6px #00000029;
+  top: 10px;
+  white-space: nowrap;
+}
+
+.refund-policy .scroll-group-2::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.refund-policy .scroll-group-2 {
+  align-items: flex-end;
+  display: flex;
+  height: 634px;
+  left: 31px;
+  min-width: 825px;
+  overflow-y: scroll;
+  position: absolute;
+  top: 80px;
+}
+
+.refund-policy .last-updated-may-29 {
+  color: var(--supernova);
+  font-family: var(--font-family-segoe_ui);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  height: 1957px;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-bottom: -1323px;
+  width: 825px;
+}
+
+.refund-policy .span25 {
+  font-family: var(--font-family-segoeui-italic);
+  font-style: italic;
+}
+
+.refund-policy .icon-awesome-arrows-alt-v {
+  height: 102px;
+  left: 842px;
+  object-fit: cover;
+  position: absolute;
+  top: 328px;
+  width: 23px;
+}
+
+.refund-policy .services {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 72px;
+  left: 30px;
+  min-width: 179px;
+  position: fixed;
+  top: 987px;
+  transition: all 0.5s ease-in-out;
+  z-index: 3;
+}
+
+.refund-policy .services:hover {
+  transform: scale(1.1);
+}
+
+.refund-policy .overlap-group1 {
+  align-items: flex-start;
+  background-image: url(../img/rectangle-1-27@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 24px 105px 24px 105px;
+  display: flex;
+  height: 72px;
+  justify-content: flex-end;
+  min-width: 179px;
+  padding: 6.5px 9px;
+}
+
+.refund-policy .services-1 {
+  letter-spacing: 0;
+  line-height: 41px;
+  min-height: 56px;
+  text-shadow: 0px 3px 6px #00000029;
+  white-space: nowrap;
+}
+
+.refund-policy .component-2-29 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 72px;
+  left: 1684px;
+  min-width: 193px;
+  position: fixed;
+  top: 987px;
+  transition: all 0.5s ease-in-out;
+  z-index: 5;
+}
+
+.refund-policy .component-2-29:hover {
+  transform: scale(1.1);
+}
+
+.refund-policy .overlap-group3 {
+  align-items: flex-end;
+  background-image: url(../img/rectangle-1-34@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 24px 105px 24px 105px;
+  display: flex;
+  height: 72px;
+  justify-content: flex-end;
+  min-width: 193px;
+  padding: 8px 9px;
+}
+
+.refund-policy .about-us {
+  letter-spacing: 0;
+  line-height: 37px;
+  min-height: 51px;
+  min-width: 164px;
+  text-shadow: 0px 3px 6px #00000029;
+  white-space: nowrap;
+}
+
+.refund-policy .component-2-43 {
+  align-items: flex-start;
+  align-self: center;
+  cursor: pointer;
+  display: flex;
+  margin-left: 1.0px;
+  margin-top: 13px;
+  min-width: 177px;
+  transition: all 0.5s ease-in-out;
+  z-index: 7;
+}
+
+.refund-policy .component-2-43:hover {
+  transform: scale(1.1);
+}
+
+.refund-policy .overlap-group5 {
+  align-items: flex-end;
+  background-image: url(../img/rectangle-1-35@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 24px 105px 24px 105px;
+  display: flex;
+  height: 72px;
+  justify-content: flex-end;
+  min-width: 177px;
+  padding: 9px 10px;
+}
+
+.refund-policy .contact-us {
+  letter-spacing: 0;
+  line-height: 30px;
+  min-height: 42px;
+  min-width: 154px;
+  text-shadow: 0px 3px 6px #00000029;
+  white-space: nowrap;
+}

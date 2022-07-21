@@ -1,0 +1,354 @@
+/* screen - video-editing */
+
+.video-editing {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  width: 1920px;
+}
+
+.video-editing .overlap-group6 {
+  height: 1080px;
+  position: relative;
+  width: 1920px;
+}
+
+.video-editing .video-editing-scene {
+  height: 1080px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1920px;
+}
+
+.video-editing .video-editing-scene video {
+  height: 100%;
+  object-fit: cover;
+  width: 100%;
+}
+
+.video-editing .video-editing-scene img {
+  object-fit: cover;
+}
+
+.video-editing .component-2-4 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 124px;
+  left: 756px;
+  min-width: 408px;
+  position: absolute;
+  top: 756px;
+  transition: all 0.5s ease-in-out;
+}
+
+.video-editing .component-2-4:hover {
+  transform: scale(1.1);
+}
+
+.video-editing .overlap-group {
+  align-items: flex-end;
+  background-image: url(../img/rectangle-1-13@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 24px 105px 24px 105px;
+  display: flex;
+  height: 124px;
+  justify-content: flex-end;
+  min-width: 408px;
+  padding: 20px 52px;
+}
+
+.video-editing .contact-us {
+  letter-spacing: 0;
+  line-height: 59px;
+  min-height: 81px;
+  min-width: 301px;
+  text-shadow: 0px 3px 6px #00000029;
+  white-space: nowrap;
+}
+
+.video-editing .component-2-5 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 75px;
+  left: 30px;
+  min-width: 179px;
+  position: absolute;
+  top: 21px;
+  transition: all 0.5s ease;
+}
+
+.video-editing .component-2-5:hover {
+  transform: scale(1.1);
+}
+
+.video-editing .overlap-group1 {
+  align-items: flex-start;
+  background-image: url(../img/rectangle-1-12@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 24px 105px 24px 105px;
+  display: flex;
+  height: 75px;
+  justify-content: flex-end;
+  min-width: 179px;
+  padding: 7px 25px;
+}
+
+.video-editing .place {
+  letter-spacing: 0;
+  line-height: 44px;
+  min-height: 60px;
+  text-shadow: 0px 3px 6px #00000029;
+  white-space: nowrap;
+}
+
+.video-editing .component-2-6 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 59px;
+  left: 862px;
+  min-width: 197px;
+  position: absolute;
+  top: 929px;
+  transition: all 0.5s ease-in-out;
+}
+
+.video-editing .component-2-6:hover {
+  transform: scale(1.1);
+}
+
+.video-editing .overlap-group2 {
+  align-items: flex-end;
+  background-image: url(../img/rectangle-1-9@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 24px 105px 24px 105px;
+  display: flex;
+  height: 59px;
+  justify-content: flex-end;
+  min-width: 197px;
+  padding: 9px 15px;
+}
+
+.video-editing .x2-d-animation {
+  letter-spacing: 0;
+  line-height: 24px;
+  min-height: 34px;
+  min-width: 159px;
+  text-shadow: 0px 3px 6px #00000029;
+  white-space: nowrap;
+}
+
+.video-editing .component-2-11 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 59px;
+  left: 1211px;
+  min-width: 193px;
+  position: absolute;
+  top: 929px;
+  transition: all 0.5s ease-in-out;
+}
+
+.video-editing .component-2-11:hover {
+  transform: scale(1.1);
+}
+
+.video-editing .overlap-group3 {
+  align-items: flex-end;
+  background-image: url(../img/rectangle-1-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 24px 105px 24px 105px;
+  display: flex;
+  height: 59px;
+  justify-content: flex-end;
+  min-width: 193px;
+  padding: 4.5px 33px;
+}
+
+.video-editing .about-us {
+  letter-spacing: 0;
+  line-height: 28px;
+  min-height: 39px;
+  min-width: 124px;
+  text-shadow: 0px 3px 6px #00000029;
+  white-space: nowrap;
+}
+
+.video-editing .component-2-12 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 55px;
+  left: 524px;
+  min-width: 186px;
+  position: absolute;
+  top: 929px;
+  transition: all 0.5s ease-in-out;
+}
+
+.video-editing .component-2-12:hover {
+  transform: scale(1.1);
+}
+
+.video-editing .overlap-group4 {
+  align-items: flex-end;
+  background-image: url(../img/rectangle-1-11@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 24px 105px 24px 105px;
+  display: flex;
+  height: 55px;
+  justify-content: flex-end;
+  min-width: 186px;
+  padding: 5.5px 14px;
+}
+
+.video-editing .promotions {
+  letter-spacing: 0;
+  line-height: 32px;
+  min-height: 39px;
+  min-width: 155px;
+  text-shadow: 0px 3px 6px #00000029;
+  white-space: nowrap;
+}
+
+.video-editing .component-2-18 {
+  align-items: flex-end;
+  cursor: pointer;
+  display: flex;
+  height: 116px;
+  left: 1707px;
+  min-width: 179px;
+  position: absolute;
+  top: 21px;
+  transition: all 0.5s ease-in-out;
+}
+
+.video-editing .component-2-18:hover {
+  transform: scale(1.1);
+}
+
+.video-editing .overlap-group5 {
+  height: 132px;
+  margin-bottom: -16px;
+  position: relative;
+  width: 179px;
+}
+
+.video-editing .rectangle-1 {
+  border-radius: 24px 105px 24px 105px;
+  height: 75px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 179px;
+}
+
+.video-editing .gallery {
+  left: 16px;
+  letter-spacing: 0;
+  line-height: 44px;
+  position: absolute;
+  text-shadow: 0px 3px 6px #00000029;
+  top: 14px;
+  white-space: nowrap;
+}
+
+.video-editing .terms-conditions {
+  cursor: pointer;
+  left: 912px;
+  letter-spacing: 0;
+  line-height: 13px;
+  position: absolute;
+  text-decoration: underline;
+  text-shadow: 0px 3px 6px #00000029;
+  top: 999px;
+  white-space: nowrap;
+}
+
+.video-editing .refund-policy {
+  cursor: pointer;
+  left: 1277px;
+  letter-spacing: 0;
+  line-height: 13px;
+  position: absolute;
+  text-decoration: underline;
+  text-shadow: 0px 3px 6px #00000029;
+  top: 1001px;
+  white-space: nowrap;
+}
+
+.video-editing .privacy-policy {
+  cursor: pointer;
+  left: 567px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  text-decoration: underline;
+  text-shadow: 0px 3px 6px #00000029;
+  top: 1000px;
+  white-space: nowrap;
+}
+
+.video-editing .icon-facebook {
+  cursor: pointer;
+  height: 60px;
+  left: 1838px;
+  object-fit: cover;
+  position: absolute;
+  top: 467px;
+  transition: all 0.5s ease-in-out;
+  width: 57px;
+}
+
+.video-editing .icon-facebook:hover {
+  transform: scale(1.1);
+}
+
+.video-editing .icon-metro-youtube {
+  cursor: pointer;
+  height: 58px;
+  left: 1842px;
+  object-fit: cover;
+  position: absolute;
+  top: 375px;
+  transition: all 0.5s ease-in-out;
+  width: 57px;
+}
+
+.video-editing .icon-metro-youtube:hover {
+  transform: scale(1.1);
+}
+
+.video-editing .pay-gif {
+  background-image: url(https://cdn.animaapp.com/projects/6293c5b71230b0804aeb9040/files/pay-gif.gif);
+  background-position: 50% 50%;
+  background-size: cover;
+  cursor: pointer;
+  height: 93px;
+  left: 1833px;
+  position: absolute;
+  top: 561px;
+  width: 68px;
+}
+
+.video-editing .how-it-works {
+  cursor: pointer;
+  left: 1709px;
+  letter-spacing: 0;
+  line-height: 31px;
+  position: absolute;
+  text-decoration: underline;
+  text-shadow: 0px 3px 6px #00000029;
+  top: 1019px;
+  white-space: nowrap;
+}

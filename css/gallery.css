@@ -1,0 +1,814 @@
+/* screen - gallery */
+
+.gallery {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  width: 1920px;
+}
+
+.gallery .overlap-group13 {
+  height: 1080px;
+  position: relative;
+  width: 1920px;
+}
+
+.gallery .basic-indoor-sceene_1 {
+  height: 1080px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1920px;
+}
+
+.gallery .basic-indoor-sceene_1 video {
+  height: 100%;
+  object-fit: cover;
+  width: 100%;
+}
+
+.gallery .basic-indoor-sceene_1 img {
+  object-fit: cover;
+}
+
+.gallery .home {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 75px;
+  left: 30px;
+  min-width: 179px;
+  position: absolute;
+  top: 21px;
+  transition: all 0.5s ease-in-out;
+}
+
+.gallery .home:hover {
+  transform: scale(1.1);
+}
+
+.gallery .overlap-group {
+  align-items: flex-start;
+  background-image: url(../img/rectangle-1-12@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 24px 105px 24px 105px;
+  display: flex;
+  height: 75px;
+  justify-content: flex-end;
+  min-width: 179px;
+  padding: 7px 25px;
+}
+
+.gallery .place {
+  letter-spacing: 0;
+  line-height: 44px;
+  min-height: 60px;
+  text-shadow: 0px 3px 6px #00000029;
+  white-space: nowrap;
+}
+
+.gallery .services {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 72px;
+  left: 1704px;
+  min-width: 179px;
+  position: absolute;
+  top: 20px;
+  transition: all 0.5s ease-in-out;
+}
+
+.gallery .services:hover {
+  transform: scale(1.1);
+}
+
+.gallery .overlap-group1 {
+  align-items: flex-start;
+  background-image: url(../img/rectangle-1-27@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 24px 105px 24px 105px;
+  display: flex;
+  height: 72px;
+  justify-content: flex-end;
+  min-width: 179px;
+  padding: 6.5px 9px;
+}
+
+.gallery .services-1 {
+  letter-spacing: 0;
+  line-height: 41px;
+  min-height: 56px;
+  text-shadow: 0px 3px 6px #00000029;
+  white-space: nowrap;
+}
+
+.gallery .get-king {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 166px;
+  justify-content: flex-end;
+  left: 603px;
+  min-width: 205px;
+  position: absolute;
+  top: 262px;
+  transition: all 0.5s ease-in-out;
+}
+
+.gallery .get-king:hover {
+  transform: scale(1.1);
+}
+
+.gallery .overlap-group2 {
+  height: 166px;
+  position: relative;
+  width: 205px;
+}
+
+.gallery .component-2-27 {
+  align-items: flex-start;
+  display: flex;
+  height: 160px;
+  left: 0;
+  min-width: 205px;
+  position: absolute;
+  top: 6px;
+}
+
+.gallery .overlap-group-1 {
+  align-items: flex-end;
+  background-image: url(../img/rectangle-1-36@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 48px;
+  display: flex;
+  height: 160px;
+  justify-content: flex-end;
+  min-width: 205px;
+  padding: 15px 14.0px;
+}
+
+.gallery .get-to-the-king {
+  color: var(--supernova);
+  font-family: var(--font-family-segoeui-bold);
+  font-size: 23px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 23px;
+  min-height: 33px;
+  min-width: 174px;
+  text-shadow: 0px 3px 6px #00000029;
+  white-space: nowrap;
+}
+
+.gallery .get-to-king-thumb {
+  border-radius: 54px;
+  height: 115px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 204px;
+}
+
+.gallery .x2-d-edu {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 178px;
+  left: 1145px;
+  min-width: 213px;
+  position: absolute;
+  top: 760px;
+  transition: all 0.5s ease-in-out;
+}
+
+.gallery .x2-d-edu:hover {
+  transform: scale(1.1);
+}
+
+.gallery .overlap-group3 {
+  height: 178px;
+  position: relative;
+  width: 213px;
+}
+
+.gallery .component-2-23 {
+  align-items: flex-start;
+  display: flex;
+  height: 169px;
+  left: 0;
+  min-width: 213px;
+  position: absolute;
+  top: 9px;
+}
+
+.gallery .overlap-group-2 {
+  align-items: flex-end;
+  background-image: url(../img/rectangle-1-4@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 63px;
+  display: flex;
+  height: 169px;
+  justify-content: flex-end;
+  min-width: 213px;
+  padding: 2px 27px;
+}
+
+.gallery .teach-eventhe-boring-stuff {
+  letter-spacing: 0;
+  line-height: 20px;
+  min-height: 56px;
+  min-width: 157px;
+  text-shadow: 0px 3px 6px #00000029;
+  white-space: nowrap;
+}
+
+.gallery .x2d-edu-thumb {
+  border-radius: 102px;
+  height: 118px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 208px;
+}
+
+.gallery .steps-to-success {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 265px;
+  left: 602px;
+  min-width: 212px;
+  position: absolute;
+  top: 474px;
+  transition: all 0.5s ease-in-out;
+}
+
+.gallery .steps-to-success:hover {
+  transform: scale(1.1);
+}
+
+.gallery .overlap-group4 {
+  height: 265px;
+  position: relative;
+  width: 212px;
+}
+
+.gallery .component-2-25 {
+  align-items: flex-start;
+  display: flex;
+  height: 263px;
+  left: 0;
+  min-width: 208px;
+  position: absolute;
+  top: 2px;
+}
+
+.gallery .overlap-group-3 {
+  align-items: flex-end;
+  background-image: url(../img/rectangle-1-5@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 92px;
+  display: flex;
+  height: 263px;
+  min-width: 208px;
+  padding: 23px 0;
+}
+
+.gallery .steps-to {
+  letter-spacing: 0;
+  line-height: 20px;
+  min-height: 188px;
+  min-width: 60px;
+  text-shadow: 0px 3px 6px #00000029;
+  white-space: nowrap;
+}
+
+.gallery .steppin-thumb {
+  border-radius: 95px;
+  height: 265px;
+  left: 63px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 149px;
+}
+
+.gallery .excite {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 215px;
+  left: 845px;
+  min-width: 260px;
+  position: absolute;
+  top: 213px;
+  transition: all 0.5s ease-in-out;
+}
+
+.gallery .excite:hover {
+  transform: scale(1.1);
+}
+
+.gallery .overlap-group5 {
+  height: 215px;
+  position: relative;
+  width: 260px;
+}
+
+.gallery .component-2-24 {
+  align-items: flex-start;
+  display: flex;
+  height: 214px;
+  justify-content: center;
+  left: 0;
+  min-width: 260px;
+  position: absolute;
+  top: 1px;
+}
+
+.gallery .overlap-group-4 {
+  align-items: flex-end;
+  background-image: url(../img/rectangle-1-39-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 69px;
+  display: flex;
+  height: 214px;
+  justify-content: flex-end;
+  min-width: 260px;
+  padding: 6.5px 44.0px;
+}
+
+.gallery .wheres-theexcitement {
+  color: var(--supernova);
+  font-family: var(--font-family-segoe_ui);
+  font-size: var(--font-size-m);
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 30px;
+  min-height: 61px;
+  min-width: 159px;
+  text-shadow: 0px 3px 6px #00000029;
+  white-space: nowrap;
+}
+
+.gallery .span1 {
+  font-family: var(--font-family-segoeui-bold);
+  font-size: 27px;
+}
+
+.gallery .excite-thumb {
+  display: flex;
+  height: 171px;
+  left: 1px;
+  position: absolute;
+  top: 0;
+  width: 258px;
+}
+
+.gallery .excite-thumb-1 {
+  border-radius: 101px;
+  flex: 1;
+  margin-bottom: 26.0px;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0;
+  object-fit: cover;
+  width: 258px;
+}
+
+.gallery .da-on-fire {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 240px;
+  left: 1153px;
+  min-width: 202px;
+  position: absolute;
+  top: 474px;
+  transition: all 0.5s ease-in-out;
+}
+
+.gallery .da-on-fire:hover {
+  transform: scale(1.1);
+}
+
+.gallery .overlap-group6 {
+  height: 240px;
+  position: relative;
+  width: 204px;
+}
+
+.gallery .component-2-26 {
+  align-items: flex-start;
+  display: flex;
+  height: 236px;
+  left: 0;
+  min-width: 204px;
+  position: absolute;
+  top: 2px;
+}
+
+.gallery .overlap-group-5 {
+  height: 236px;
+  position: relative;
+  width: 204px;
+}
+
+.gallery .rectangle-1 {
+  border-radius: 77px;
+  height: 236px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 202px;
+}
+
+.gallery .da-onfire {
+  left: 140px;
+  letter-spacing: 0;
+  line-height: 28px;
+  position: absolute;
+  text-shadow: 0px 3px 6px #00000029;
+  top: 76px;
+  white-space: nowrap;
+}
+
+.gallery .da-fire-thumb {
+  display: flex;
+  height: 240px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 182px;
+}
+
+.gallery .da-fire-thumb-1 {
+  border-radius: 78px;
+  flex: 1;
+  margin-left: 0;
+  margin-right: 48.0px;
+  object-fit: cover;
+  width: 134px;
+}
+
+.gallery .component-2-30 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 72px;
+  left: 1690px;
+  min-width: 193px;
+  position: absolute;
+  top: 990px;
+  transition: all 0.5s ease-in-out;
+}
+
+.gallery .component-2-30:hover {
+  transform: scale(1.1);
+}
+
+.gallery .overlap-group7 {
+  align-items: flex-end;
+  background-image: url(../img/rectangle-1-34@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 24px 105px 24px 105px;
+  display: flex;
+  height: 72px;
+  justify-content: flex-end;
+  min-width: 193px;
+  padding: 8px 9px;
+}
+
+.gallery .about-us {
+  letter-spacing: 0;
+  line-height: 37px;
+  min-height: 51px;
+  min-width: 164px;
+  text-shadow: 0px 3px 6px #00000029;
+  white-space: nowrap;
+}
+
+.gallery .component-2-45 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 72px;
+  left: 32px;
+  min-width: 177px;
+  position: absolute;
+  top: 984px;
+  transition: all 0.5s ease-in-out;
+}
+
+.gallery .component-2-45:hover {
+  transform: scale(1.1);
+}
+
+.gallery .overlap-group8 {
+  align-items: flex-end;
+  background-image: url(../img/rectangle-1-35@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 24px 105px 24px 105px;
+  display: flex;
+  height: 72px;
+  justify-content: flex-end;
+  min-width: 177px;
+  padding: 9px 10px;
+}
+
+.gallery .contact-us {
+  letter-spacing: 0;
+  line-height: 30px;
+  min-height: 42px;
+  min-width: 154px;
+  text-shadow: 0px 3px 6px #00000029;
+  white-space: nowrap;
+}
+
+.gallery .sandy-shores {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 175px;
+  left: 1142px;
+  min-width: 213px;
+  position: absolute;
+  top: 253px;
+  transition: all 0.5s ease-in-out;
+}
+
+.gallery .sandy-shores:hover {
+  transform: scale(1.1);
+}
+
+.gallery .overlap-group9 {
+  height: 175px;
+  position: relative;
+  width: 213px;
+}
+
+.gallery .component-2-21 {
+  align-items: flex-end;
+  display: flex;
+  height: 170px;
+  left: 0;
+  min-width: 213px;
+  position: absolute;
+  top: 5px;
+}
+
+.gallery .overlap-group-6 {
+  height: 173px;
+  margin-bottom: -3px;
+  position: relative;
+  width: 213px;
+}
+
+.gallery .rectangle-1-1 {
+  border-radius: 49px;
+  height: 170px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 213px;
+}
+
+.gallery .from-sandy-shores-to-high-seas {
+  color: var(--supernova);
+  font-family: var(--font-family-segoeui-bold);
+  font-size: 21px;
+  font-weight: 700;
+  left: 18px;
+  letter-spacing: 0;
+  line-height: 21px;
+  position: absolute;
+  text-shadow: 0px 3px 6px #00000029;
+  top: 115px;
+  white-space: nowrap;
+}
+
+.gallery .high-seas-thumb {
+  border-radius: 49px;
+  height: 119px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 212px;
+}
+
+.gallery .what-is-a-2d-vid {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 222px;
+  left: 845px;
+  min-width: 277px;
+  position: absolute;
+  top: 479px;
+  transition: all 0.5s ease-in-out;
+}
+
+.gallery .what-is-a-2d-vid:hover {
+  transform: scale(1.1);
+}
+
+.gallery .overlap-group10 {
+  height: 222px;
+  position: relative;
+  width: 277px;
+}
+
+.gallery .component-2-24-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 214px;
+  justify-content: center;
+  left: 0;
+  min-width: 277px;
+  position: absolute;
+  top: 8px;
+}
+
+.gallery .overlap-group-7 {
+  align-items: flex-end;
+  background-image: url(../img/rectangle-1-6@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 69px;
+  display: flex;
+  height: 214px;
+  justify-content: flex-end;
+  min-width: 277px;
+  padding: 0 13.0px;
+}
+
+.gallery .whats-a-2-d-explainer-video {
+  letter-spacing: 0;
+  line-height: 36px;
+  min-height: 70px;
+  min-width: 248px;
+  text-shadow: 0px 3px 6px #00000029;
+  white-space: nowrap;
+}
+
+.gallery .what-2d-thumb {
+  border-radius: 198px;
+  height: 156px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 277px;
+}
+
+.gallery .big-mamas {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 172px;
+  left: 602px;
+  min-width: 220px;
+  position: absolute;
+  top: 761px;
+  transition: all 0.5s ease-in-out;
+}
+
+.gallery .big-mamas:hover {
+  transform: scale(1.1);
+}
+
+.gallery .overlap-group11 {
+  height: 172px;
+  position: relative;
+  width: 220px;
+}
+
+.gallery .component-2-49 {
+  align-items: flex-end;
+  display: flex;
+  height: 160px;
+  left: 0;
+  min-width: 220px;
+  position: absolute;
+  top: 12px;
+}
+
+.gallery .overlap-group-8 {
+  height: 169px;
+  margin-bottom: -9px;
+  position: relative;
+  width: 220px;
+}
+
+.gallery .rectangle-1-2 {
+  border-radius: 48px;
+  height: 160px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 220px;
+}
+
+.gallery .big-mamas-daycare {
+  left: 56px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  text-shadow: 0px 3px 6px #00000029;
+  top: 113px;
+  white-space: nowrap;
+}
+
+.gallery .big-mama-thumb {
+  border-radius: 201px;
+  height: 124px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 220px;
+}
+
+.gallery .natureal-landscaping {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 172px;
+  left: 870px;
+  min-width: 227px;
+  position: absolute;
+  top: 761px;
+  transition: all 0.5s ease-in-out;
+}
+
+.gallery .natureal-landscaping:hover {
+  transform: scale(1.1);
+}
+
+.gallery .overlap-group12 {
+  height: 172px;
+  position: relative;
+  width: 227px;
+}
+
+.gallery .component-2-53 {
+  align-items: flex-end;
+  display: flex;
+  height: 160px;
+  left: 0;
+  min-width: 227px;
+  position: absolute;
+  top: 12px;
+}
+
+.gallery .overlap-group-9 {
+  height: 169px;
+  margin-bottom: -9px;
+  position: relative;
+  width: 227px;
+}
+
+.gallery .rectangle-1-3 {
+  border-radius: 48px;
+  height: 160px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 227px;
+}
+
+.gallery .naturealslandscaping {
+  left: 52px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  text-shadow: 0px 3px 6px #00000029;
+  top: 113px;
+  white-space: nowrap;
+}
+
+.gallery .natureal-thumb {
+  border-radius: 170px;
+  height: 124px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 227px;
+}

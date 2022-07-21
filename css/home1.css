@@ -1,0 +1,82 @@
+/* screen - home1 */
+
+.home1 {
+  align-items: flex-start;
+  display: flex;
+  width: 1920px;
+}
+
+.home1 .overlap-group1 {
+  height: 1080px;
+  position: relative;
+  width: 1920px;
+}
+
+.home1 .scene-da-outdoor-scenee_1_1 {
+  height: 1080px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1920px;
+}
+
+.home1 .scene-da-outdoor-scenee_1_1 video {
+  height: 100%;
+  object-fit: cover;
+  width: 100%;
+}
+
+.home1 .scene-da-outdoor-scenee_1_1 img {
+  object-fit: cover;
+}
+
+.home1 .component-2-2 {
+  align-items: flex-end;
+  background-image: url(https://cdn.animaapp.com/projects/6293c5b71230b0804aeb9040/files/enter-gif.gif);
+  background-position: 50% 50%;
+  background-size: cover;
+  cursor: pointer;
+  display: flex;
+  height: 129px;
+  left: 743px;
+  min-width: 435px;
+  overflow: hidden;
+  position: absolute;
+  top: 842px;
+  transition: all 0.5s ease-in-out;
+}
+
+.home1 .component-2-2:hover {
+  transform: scale(1.1);
+}
+
+.home1 .overlap-group {
+  height: 133px;
+  margin-bottom: -4px;
+  position: relative;
+  width: 435px;
+}
+
+.home1 .rectangle-1 {
+  border-radius: 24px 105px 24px 105px;
+  height: 129px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 435px;
+}
+
+.home1 .place {
+  color: var(--supernova);
+  font-family: var(--font-family-segoeui-bold);
+  font-size: 80px;
+  font-weight: 700;
+  left: 93px;
+  letter-spacing: 0;
+  line-height: 80px;
+  position: absolute;
+  text-shadow: 0px 3px 6px #00000029;
+  top: 25px;
+  white-space: nowrap;
+}

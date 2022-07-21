@@ -1,0 +1,225 @@
+/* screen - big-mama */
+
+.big-mama {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  width: 1920px;
+}
+
+.big-mama .overlap-group5 {
+  height: 1080px;
+  position: relative;
+  width: 1920px;
+}
+
+.big-mama .big-mama-gallery-vid {
+  height: 1080px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1920px;
+}
+
+.big-mama .big-mama-gallery-vid video {
+  height: 100%;
+  object-fit: cover;
+  width: 100%;
+}
+
+.big-mama .big-mama-gallery-vid img {
+  object-fit: cover;
+}
+
+.big-mama .home {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 75px;
+  left: 30px;
+  min-width: 179px;
+  position: absolute;
+  top: 21px;
+  transition: all 0.5s ease-in-out;
+}
+
+.big-mama .home:hover {
+  transform: scale(1.1);
+}
+
+.big-mama .overlap-group {
+  align-items: flex-start;
+  background-image: url(../img/rectangle-1-12@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 24px 105px 24px 105px;
+  display: flex;
+  height: 75px;
+  justify-content: flex-end;
+  min-width: 179px;
+  padding: 7px 25px;
+}
+
+.big-mama .place {
+  letter-spacing: 0;
+  line-height: 44px;
+  min-height: 60px;
+  text-shadow: 0px 3px 6px #00000029;
+  white-space: nowrap;
+}
+
+.big-mama .services {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 72px;
+  left: 30px;
+  min-width: 179px;
+  position: absolute;
+  top: 951px;
+  transition: all 0.5s ease-in-out;
+}
+
+.big-mama .services:hover {
+  transform: scale(1.1);
+}
+
+.big-mama .overlap-group1 {
+  align-items: flex-start;
+  background-image: url(../img/rectangle-1-27@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 24px 105px 24px 105px;
+  display: flex;
+  height: 72px;
+  justify-content: flex-end;
+  min-width: 179px;
+  padding: 6.5px 9px;
+}
+
+.big-mama .services-1 {
+  letter-spacing: 0;
+  line-height: 41px;
+  min-height: 56px;
+  text-shadow: 0px 3px 6px #00000029;
+  white-space: nowrap;
+}
+
+.big-mama .component-2-50 {
+  align-items: flex-end;
+  cursor: pointer;
+  display: flex;
+  height: 116px;
+  left: 1698px;
+  min-width: 179px;
+  position: absolute;
+  top: 21px;
+  transition: all 0.5s ease-in-out;
+}
+
+.big-mama .component-2-50:hover {
+  transform: scale(1.1);
+}
+
+.big-mama .overlap-group2 {
+  height: 132px;
+  margin-bottom: -16px;
+  position: relative;
+  width: 179px;
+}
+
+.big-mama .rectangle-1 {
+  border-radius: 24px 105px 24px 105px;
+  height: 75px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 179px;
+}
+
+.big-mama .gallery {
+  left: 16px;
+  letter-spacing: 0;
+  line-height: 44px;
+  position: absolute;
+  text-shadow: 0px 3px 6px #00000029;
+  top: 14px;
+  white-space: nowrap;
+}
+
+.big-mama .component-2-51 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 72px;
+  left: 1684px;
+  min-width: 193px;
+  position: absolute;
+  top: 951px;
+  transition: all 0.5s ease-in-out;
+}
+
+.big-mama .component-2-51:hover {
+  transform: scale(1.1);
+}
+
+.big-mama .overlap-group3 {
+  align-items: flex-end;
+  background-image: url(../img/rectangle-1-34@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 24px 105px 24px 105px;
+  display: flex;
+  height: 72px;
+  justify-content: flex-end;
+  min-width: 193px;
+  padding: 8px 9px;
+}
+
+.big-mama .about-us {
+  letter-spacing: 0;
+  line-height: 37px;
+  min-height: 51px;
+  min-width: 164px;
+  text-shadow: 0px 3px 6px #00000029;
+  white-space: nowrap;
+}
+
+.big-mama .component-2-52 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 72px;
+  left: 872px;
+  min-width: 177px;
+  position: absolute;
+  top: 951px;
+  transition: all 0.5s ease-in-out;
+}
+
+.big-mama .component-2-52:hover {
+  transform: scale(1.1);
+}
+
+.big-mama .overlap-group4 {
+  align-items: flex-end;
+  background-image: url(../img/rectangle-1-35@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 24px 105px 24px 105px;
+  display: flex;
+  height: 72px;
+  justify-content: flex-end;
+  min-width: 177px;
+  padding: 9px 10px;
+}
+
+.big-mama .contact-us {
+  letter-spacing: 0;
+  line-height: 30px;
+  min-height: 42px;
+  min-width: 154px;
+  text-shadow: 0px 3px 6px #00000029;
+  white-space: nowrap;
+}

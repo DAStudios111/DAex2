@@ -1,0 +1,225 @@
+/* screen - what-is-2d */
+
+.what-is-2d {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  width: 1920px;
+}
+
+.what-is-2d .overlap-group5 {
+  height: 1080px;
+  position: relative;
+  width: 1920px;
+}
+
+.what-is-2d .what-is-a-2-d-explainer-gallery-vid {
+  height: 1080px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1920px;
+}
+
+.what-is-2d .what-is-a-2-d-explainer-gallery-vid video {
+  height: 100%;
+  object-fit: cover;
+  width: 100%;
+}
+
+.what-is-2d .what-is-a-2-d-explainer-gallery-vid img {
+  object-fit: cover;
+}
+
+.what-is-2d .home {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 75px;
+  left: 30px;
+  min-width: 179px;
+  position: absolute;
+  top: 21px;
+  transition: all 0.5s ease-in-out;
+}
+
+.what-is-2d .home:hover {
+  transform: scale(1.1);
+}
+
+.what-is-2d .overlap-group {
+  align-items: flex-start;
+  background-image: url(../img/rectangle-1-12@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 24px 105px 24px 105px;
+  display: flex;
+  height: 75px;
+  justify-content: flex-end;
+  min-width: 179px;
+  padding: 7px 25px;
+}
+
+.what-is-2d .place {
+  letter-spacing: 0;
+  line-height: 44px;
+  min-height: 60px;
+  text-shadow: 0px 3px 6px #00000029;
+  white-space: nowrap;
+}
+
+.what-is-2d .services {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 72px;
+  left: 30px;
+  min-width: 179px;
+  position: absolute;
+  top: 951px;
+  transition: all 0.5s ease-in-out;
+}
+
+.what-is-2d .services:hover {
+  transform: scale(1.1);
+}
+
+.what-is-2d .overlap-group1 {
+  align-items: flex-start;
+  background-image: url(../img/rectangle-1-27@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 24px 105px 24px 105px;
+  display: flex;
+  height: 72px;
+  justify-content: flex-end;
+  min-width: 179px;
+  padding: 6.5px 9px;
+}
+
+.what-is-2d .services-1 {
+  letter-spacing: 0;
+  line-height: 41px;
+  min-height: 56px;
+  text-shadow: 0px 3px 6px #00000029;
+  white-space: nowrap;
+}
+
+.what-is-2d .component-2-46 {
+  align-items: flex-end;
+  cursor: pointer;
+  display: flex;
+  height: 116px;
+  left: 1698px;
+  min-width: 179px;
+  position: absolute;
+  top: 21px;
+  transition: all 0.5s ease-in-out;
+}
+
+.what-is-2d .component-2-46:hover {
+  transform: scale(1.1);
+}
+
+.what-is-2d .overlap-group2 {
+  height: 132px;
+  margin-bottom: -16px;
+  position: relative;
+  width: 179px;
+}
+
+.what-is-2d .rectangle-1 {
+  border-radius: 24px 105px 24px 105px;
+  height: 75px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 179px;
+}
+
+.what-is-2d .gallery {
+  left: 16px;
+  letter-spacing: 0;
+  line-height: 44px;
+  position: absolute;
+  text-shadow: 0px 3px 6px #00000029;
+  top: 14px;
+  white-space: nowrap;
+}
+
+.what-is-2d .component-2-47 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 72px;
+  left: 1684px;
+  min-width: 193px;
+  position: absolute;
+  top: 951px;
+  transition: all 0.5s ease-in-out;
+}
+
+.what-is-2d .component-2-47:hover {
+  transform: scale(1.1);
+}
+
+.what-is-2d .overlap-group3 {
+  align-items: flex-end;
+  background-image: url(../img/rectangle-1-34@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 24px 105px 24px 105px;
+  display: flex;
+  height: 72px;
+  justify-content: flex-end;
+  min-width: 193px;
+  padding: 8px 9px;
+}
+
+.what-is-2d .about-us {
+  letter-spacing: 0;
+  line-height: 37px;
+  min-height: 51px;
+  min-width: 164px;
+  text-shadow: 0px 3px 6px #00000029;
+  white-space: nowrap;
+}
+
+.what-is-2d .component-2-48 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 72px;
+  left: 872px;
+  min-width: 177px;
+  position: absolute;
+  top: 951px;
+  transition: all 0.5s ease-in-out;
+}
+
+.what-is-2d .component-2-48:hover {
+  transform: scale(1.1);
+}
+
+.what-is-2d .overlap-group4 {
+  align-items: flex-end;
+  background-image: url(../img/rectangle-1-35@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 24px 105px 24px 105px;
+  display: flex;
+  height: 72px;
+  justify-content: flex-end;
+  min-width: 177px;
+  padding: 9px 10px;
+}
+
+.what-is-2d .contact-us {
+  letter-spacing: 0;
+  line-height: 30px;
+  min-height: 42px;
+  min-width: 154px;
+  text-shadow: 0px 3px 6px #00000029;
+  white-space: nowrap;
+}
